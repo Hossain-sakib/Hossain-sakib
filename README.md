@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sakib Hossain</h1>
 <h3 align="center">Code poet specializing in the art of MERN.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossain-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="hossain-sakib" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hossain-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="hossain-sakib" /> </p>
 
 - 🔭 I’m currently working on my own projects. [Zen Zephyr](https://zen-zephyr.web.app/)
 
