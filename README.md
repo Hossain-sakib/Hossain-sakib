@@ -11,9 +11,9 @@
 </p>
 
 <h3 align="left">Three Recent Projects</h3>
-<a href="https://zen-zephyr.web.app/" target="blank">Zen Zephyr</a>
-<a href="https://study-buddy-hub.web.app/" target="blank">Studdy Buddy Hub</a>
-<a href="https://flavor-voyage.web.app/" target="blank">Flavor Voyage</a>
+- <a href="https://zen-zephyr.web.app/" target="blank">Zen Zephyr</a>
+- <a href="https://study-buddy-hub.web.app/" target="blank">Studdy Buddy Hub</a>
+- <a href="https://flavor-voyage.web.app/" target="blank">Flavor Voyage</a>
 
 
 
