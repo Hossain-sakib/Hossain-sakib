@@ -1,4 +1,7 @@
-<img align="center" src="https://i.ibb.co.com/JwJqQVnP/Screenshot-9.png" alt="hossain-sakib" />
+<img src="https://i.ibb.co.com/JwJqQVnP/Screenshot-9.png" 
+     alt="hossain-sakib" 
+     style="display:block; margin:0 auto; width:100%; height:auto;" />
+
 
 <h3 align="left">Overview</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-sakib&" alt="hossain-sakib" /></p>
